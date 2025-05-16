@@ -1,7 +1,3 @@
-# 🚀 Curated List of DevOps Tools  
-
-![banner](https://imgur.com/74NDd2v.png)
-
 ## **Your Ultimate DevOps Toolkit!** 🛠️
 
 ![DevOps Tools](https://imgur.com/QcEvryX.png)  
