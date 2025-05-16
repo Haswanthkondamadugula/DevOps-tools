@@ -541,12 +541,3 @@ This project is crafted with passion by Haswanth
 
 I’d love to hear your feedback! Feel free to open an issue, suggest improvements, or just drop by for a discussion. Let’s build a strong DevOps community together!  
 
-
-
----
-
-## 📢 **Stay Updated!**  
-
-Want to stay up to date with the latest DevOps trends, best practices, and project updates? Follow me on my blogs and social channels!  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
