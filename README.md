@@ -537,7 +537,7 @@ If you find this repository helpful and plan to use it for learning, please cons
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted with passion by Haswanth   
+This project is crafted with passion by **[Haswanth](https://github.com/Haswanthkondamadugula)** 💡
 
 I’d love to hear your feedback! Feel free to open an issue, suggest improvements, or just drop by for a discussion. Let’s build a strong DevOps community together!  
 
